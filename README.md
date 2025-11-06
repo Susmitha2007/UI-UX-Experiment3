@@ -35,6 +35,9 @@ A single web app that combines ChatGPT’s AI assistant with Figma-like design t
 
 ## Output:
 
+<img width="480" height="557" alt="Screenshot 2025-11-06 111525" src="https://github.com/user-attachments/assets/efb217a8-b783-4560-8a54-a9937f6220dd" />
 
 
 ## Result:
+
+The developed system AI DesignMate combines ChatGPT and Figma features into one platform for easy chatting and designing in a single workspace.
